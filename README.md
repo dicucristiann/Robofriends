@@ -1,9 +1,10 @@
-<h1 align="center"> RoboFriends </h1> <br>
-
+<h1 align="center"> RoboFriends </h1> 
+<br>
+<h3 align="center"> A single page application where the user can search for robot friends among all.</h3>
 <table>
 	<tr>
 		<td>
-			A single page application where the user can search for robot friends among all.
+			
 
 This project contains the fundamental concepts used in every real web project like: 
  * Responsive layout for (mobile, tablet, desktop).
@@ -57,9 +58,9 @@ Follow these steps to fix a bug or enhance an existing module:
 
 ### Bug / Feature Request
 
-If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://github.com/shradhaagarwal01/RoboFriends/issues/new) by including your search query and the expected result.
+If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://github.com/dicucristiann/Robofriends/issues/new) by including your search query and the expected result.
 
-If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/shradhaagarwal01/RoboFriends/issues/new). Please include sample queries and their corresponding results.
+If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/dicucristiann/Robofriends/issues/new). Please include sample queries and their corresponding results.
 
 ## Built with
 
@@ -71,5 +72,3 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 
 [Cristian Dicu](https://github.com/dicucristiann)
 
-## License
-[MIT](https://github.com/shradhaagarwal01/RoboFriends/blob/master/LICENSE)
