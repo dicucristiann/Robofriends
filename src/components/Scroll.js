@@ -1,11 +1,7 @@
-import React from 'react'
-
+import React from "react";
+//removed the inline style and added a [className="scroll"] in {App.css}
 const Scroll = (props) => {
-  return (
-      <div style={{overflowY: 'scroll', border: '5px solid black,', height: '500px'}}>
-          {props.children}
-    </div>
-  )
-}
+  return <div className="scroll">{props.children}</div>;
+};
 
 export default Scroll;
